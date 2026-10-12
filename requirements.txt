@@ -1,0 +1,7 @@
+aiogram==3.31.0
+faster-whisper==1.2.1
+pillow==12.3.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+Telethon==1.45.0
+openai==3.20.0
